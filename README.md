@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gonçalo Falcão Paias</h1>
 
-<h3 align="left">Just finished an intensive Data Science & AI bootcamp, and I'm excited to embark on a career in data science. Passionate about leveraging data to derive insights and solve complex problems.</h3>
+<h3 align="left">Just finished an intensive Data Science & AI bootcamp @ le wagon lisbon, and I'm excited to embark on a career in data science. Passionate about leveraging data to derive insights and solve complex problems.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
